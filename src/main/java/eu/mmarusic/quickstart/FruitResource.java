@@ -1,4 +1,4 @@
-package com.acme.hibernate.orm.panache;
+package eu.mmarusic.quickstart;
 
 import java.util.List;
 
